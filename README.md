@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pererakrd&label=Profile%20views&color=0e75b6&style=flat" alt="pererakrd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pererakrd" alt="pererakrd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pererakrd&theme=onedark" alt="pererakrd" /></a> </p>
 
 - 🔭 I’m currently working on [ERPProject](https://github.com/PereraKRD/ERPProject)
 
