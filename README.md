@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ryan Perera</h1>
-<h4 align="center">I am an innovative, hardworking, and deadline-driven undergraduate with a passion for developing captivating Web & Mobile Applications. Also I am a dedicated full-stack web developer with expertise in both MERN and ASP.NET technologies.</h4>
+<h4 align="center">I am an innovative, hardworking and confident undergraduate with a passion for developing captivating Web & Mobile Applications. Also I am a dedicated full-stack web developer with expertise in both MERN and ASP.NET technologies.</h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pererakrd&label=Profile%20views&color=0e75b6&style=flat" alt="pererakrd" /> </p>
