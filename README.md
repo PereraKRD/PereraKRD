@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pererakrd&show_icons=true&locale=en" alt="pererakrd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pererakrd&" alt="pererakrd" /></p>
+
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=PereraKRD&radius=16&theme=github-compact&area=true&order=5" height="350" alt="activity-graph graph" /> </p>
