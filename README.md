@@ -1,5 +1,5 @@
 <h1 align="center">Helllo there 👋, I'm Ryan Perera</h1>
-<h4 align="center">I am an innovative, SmartWorking and confident undergraduate with a passion for developing captivating Web & Mobile Applications. Also I am a dedicated full-stack web developer with expertise in both MERN and ASP.NET technologies.</h4>
+<h4 align="center">I am an innovative, SmartWorking and confident undergraduate with a passion for developing captivating Web & Mobile Applications. Also I am a dedicated full-stack web developer with a good knowledge on .NET technologies.</h4>
 
 <div>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
